@@ -1,3 +1,0 @@
-{% load extras %}
-<h1>comment page</h1>
-{% get_latest_links as recent_links %} 
